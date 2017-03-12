@@ -16,6 +16,6 @@ npm start
 
 For educational purposes only.
 
-## Live Internet Address
+## Live Buyflix App Internet Address
 
-https://github.com/jsmithkellogg/final
+https://final-e4c8f.firebaseapp.com
